@@ -61,11 +61,11 @@ Chúng tôi không lưu trữ hoặc có quyền truy cập trực tiếp vào t
 ---
 
 ## 6. Dịch vụ bên thứ ba
-Ứng dụng sử dụng các dịch vụ bên thứ ba để hiển thị quảng cáo, xử lý thanh toán, đo lường hiệu năng và phân tích dữ liệu ứng dụng:
+Ứng dụng sử dụng các dịch vụ bên thứ ba để đo lường hiệu năng, phân tích dữ liệu và xử lý thanh toán trong ứng dụng:
 
 *   **Dịch vụ phân tích ứng dụng (cung cấp bởi Google):** Thu thập thông tin tương tác không định danh trong ứng dụng (như tiến trình học tập, luyện thi và việc sử dụng các tính năng) nhằm tối ưu hóa nội dung ôn thi và nâng cao trải nghiệm ứng dụng.
 *   **Dịch vụ báo cáo sự cố kỹ thuật (cung cấp bởi Google):** Thu thập nhật ký sự cố (crash logs) trong ứng dụng và thông tin thiết bị không định danh khi gặp lỗi đột ngột để hỗ trợ sửa lỗi kỹ thuật kịp thời.
-*   **Dịch vụ quảng cáo và thanh toán:** Thu thập thông tin thiết bị và giao dịch mua hàng để hiển thị quảng cáo phù hợp và xử lý thanh toán các giao dịch mua hàng qua cửa hàng ứng dụng.
+*   **Dịch vụ thanh toán:** Thu thập thông tin mua hàng để xử lý các giao dịch qua cửa hàng ứng dụng.
 
 Các dịch vụ này thu thập và xử lý dữ liệu theo chính sách bảo mật riêng của họ. Vui lòng tham khảo thêm tại [Chính sách bảo mật của Google](https://policies.google.com/privacy).
 
